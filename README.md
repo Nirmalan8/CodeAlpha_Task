@@ -76,7 +76,3 @@ The models achieved high accuracy. The best performing model(s) had:
 
 ---
 
-
-   git clone https://github.com/yourusername/Iris-Flower-Classification.git
-   cd Iris-Flower-Classification
-# CodeAlpha_Task
