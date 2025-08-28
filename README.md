@@ -55,10 +55,8 @@ The dataset used is the classic **Iris Dataset** from the UCI Machine Learning R
 ##  Models Used
 
 - Logistic Regression
-- Decision Tree Classifier
-- Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
-- Random Forest Classifier
+  
 
 Each model is evaluated using:
 - Accuracy score
